@@ -1,1 +1,2 @@
 ADF is one of the widely adopted tools for ingestion for big data.
+Databricks is spark native cloud big data analytics platform.
